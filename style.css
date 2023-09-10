@@ -3,10 +3,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Playfair Display', serif;
+  /* font-family: 'Playfair Display', serif; */
+  font-family: 'Edu TAS Beginner', cursive;
 }
 body {
-  background-color: rgb(231, 231, 247);
+  background-color: rgb(183, 183, 229);
 }
 
 .quote-box {
